@@ -1,4 +1,4 @@
-#Tkinter Python theme picker
+# Tkinter Python theme picker
 
 Due to a nagging need to create and manage a bunch of different themes, I needed to make a theme picker to manage them. 
 
